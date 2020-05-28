@@ -4,4 +4,11 @@ This repository contains all the quizzes and projects that I have completed for 
 
 ## Projects Overview
 
+For this part of the course, I have done four projects:- 
+
+1. Trading With Momentum
+2. Breakout Strategy 
+3. Smart Beta and Portfolio Optimisation
+4. Alpha Research Factors
+
 
