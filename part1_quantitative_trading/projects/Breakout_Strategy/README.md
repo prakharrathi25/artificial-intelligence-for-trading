@@ -1,8 +1,8 @@
-# Project: Trading with Momentum
+# Project: Breakout Strategy
 
-**Aim:** Implementing a momentum trading strategy and testing to see if it has the potential to be profitable. 
+**Aim:** Implement a breakout trading strategy and use backtesting to estimate its profitability.
 
-**Topic**: Basic Quantitative Trading
+**Topic**: Advanced Quantitative Trading.
 
 ## Overview
 * Creating and backtesting a breakout trading signal. Outliers are removed in order to ensure a robust backtesting process.
