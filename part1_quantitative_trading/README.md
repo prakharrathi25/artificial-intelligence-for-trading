@@ -8,7 +8,7 @@ For this part of the course, I have done four projects:-
 
 1. Trading With Momentum
 2. Breakout Strategy 
-3. 
+3. Smart Beta and Portfolio Optimisation
 4. Alpha Research Factors
 
 
