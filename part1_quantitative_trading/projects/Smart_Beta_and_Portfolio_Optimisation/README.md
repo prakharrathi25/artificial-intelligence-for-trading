@@ -1,6 +1,7 @@
-# Project: Trading with Momentum
+# Project: Smart Beta and Portfolio Optimisation
 
 **Aim:** Creating and optimizing a smart beta stock portfolio.
+
 **Topic**: Portfolio Optimization, ETFs, Indices, and Stocks.
 
 ## Overview
