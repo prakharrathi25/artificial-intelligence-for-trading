@@ -1,21 +1,15 @@
-# Project: Smart Beta and Portfolio Optimisation
+# Project: NLP on Financial Statements
 
-**Aim:** Creating and optimizing a smart beta stock portfolio.
+**Aim:** NLP Analysis on 10-k financial statements to generate an alpha factor
 
-**Topic**: Portfolio Optimization, ETFs, Indices, and Stocks.
+**Topic**: Natural Language Processing, Alpha Factors
 
 ## Overview
-* Building a smart beta portfolio and calculating its tracking error against a benchmark stock index in order to see how well it performs.
-* Using quadratic programming to optimize the portfolio's weights.
-* Rebalancing this portfolio and then calculating turnover in order to evaluate performance and determine optimal rebalancing frequency.
-* The dataset is a set of end-of-day stock prices that comes from Quotemedia.* The dataset is a set of end-of-day stock prices that comes from [Quotemedia](http://www.quotemedia.com/).
-
-## Concepts
-* Using Pandas/NumPy to calculate portfolio weights based on dollar volume, as well as weights based on dividend returns.
-* Writing methods that compute returns, weighted returns, cumulative returns, and tracking error.
-* Solving convex optimization problems (quadratic programming) with the CVXPY Python library.
-* Implementing methods that rebalance portfolio weights at any desired frequency and return the cost, or annualized turnover, of doing so.
+* Applying basic concepts of natural language processing including tfidf, lemmatization, stemming and cleaning. 
+* Using textual data to generate alpha factors. 
+* Text Data acquired from SEC website to generate the 10-Ks 
+* The dataset is a set of end-of-day stock prices that comes from [Quotemedia](http://www.quotemedia.com/) and [Loughran-McDonald](https://sraf.nd.edu/textual-analysis/resources/) sentiment word lists.
 
 ## Grading and Evaluation 
 
-* [Here](https://review.udacity.com/#!/reviews/2300739)
+* You can find the grading of my project [Here](https://review.udacity.com/#!/reviews/2318583)
