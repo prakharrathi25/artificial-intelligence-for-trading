@@ -1,6 +1,6 @@
 # Artificial Intelligence For Trading. 
 
-This repository contains all the quizzes and projects that I have completed for the Udacity AI for Trading Nanodegree. 
+This repository contains all the quizzes and projects that I have completed for **Part 1** of the Udacity AI for Trading Nanodegree. 
 
 ## Projects Overview
 
