@@ -1,21 +1,15 @@
-# Project: Smart Beta and Portfolio Optimisation
+# Project: Sentiment Analysis using Neural Networks
 
-**Aim:** Creating and optimizing a smart beta stock portfolio.
+**Aim:** Build a deep learning model to classify the sentiment of messages from a social network for investors and traders.
 
-**Topic**: Portfolio Optimization, ETFs, Indices, and Stocks.
+**Topic**: Sentiment Analysis, Stock Price Generation, Natural Language Processing 
 
 ## Overview
-* Building a smart beta portfolio and calculating its tracking error against a benchmark stock index in order to see how well it performs.
-* Using quadratic programming to optimize the portfolio's weights.
-* Rebalancing this portfolio and then calculating turnover in order to evaluate performance and determine optimal rebalancing frequency.
-* The dataset is a set of end-of-day stock prices that comes from Quotemedia.* The dataset is a set of end-of-day stock prices that comes from [Quotemedia](http://www.quotemedia.com/).
-
-## Concepts
-* Using Pandas/NumPy to calculate portfolio weights based on dollar volume, as well as weights based on dividend returns.
-* Writing methods that compute returns, weighted returns, cumulative returns, and tracking error.
-* Solving convex optimization problems (quadratic programming) with the CVXPY Python library.
-* Implementing methods that rebalance portfolio weights at any desired frequency and return the cost, or annualized turnover, of doing so.
+* Build a deep learning model to classify the sentiment of messages from a social network for investors and traders.
+* Predict if any particular message is positive or negative.
+* generate a signal of the public sentiment for various ticker symbols.
+* The dataset is a set of messages from a social media website called [StockTwits](https://stocktwits.com/). 
 
 ## Grading and Evaluation 
 
-* [Here](https://review.udacity.com/#!/reviews/2300739)
+* [Here](https://review.udacity.com/#!/reviews/2321778)
