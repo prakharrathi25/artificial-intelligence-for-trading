@@ -1,15 +1,16 @@
-# Project: Sentiment Analysis using Neural Networks
+# Project: Combining Signals For Enhanced Alphas
 
-**Aim:** Build a deep learning model to classify the sentiment of messages from a social network for investors and traders.
+**Aim:** Combine signals on a random forest for enhanced alpha. 
 
-**Topic**: Sentiment Analysis, Stock Price Generation, Natural Language Processing 
+**Topic**: Signal Processing, Alpha generation
 
 ## Overview
-* Build a deep learning model to classify the sentiment of messages from a social network for investors and traders.
-* Predict if any particular message is positive or negative.
-* generate a signal of the public sentiment for various ticker symbols.
-* The dataset is a set of messages from a social media website called [StockTwits](https://stocktwits.com/). 
+* Combine signals on a random forest for enhanced alpha. 
+* Solve the problem of overlapping samples.
+* The dataset is a set of end-of-day stock prices that comes from [Quotemedia](http://www.quotemedia.com/) and sector data from [Sharadar](https://www.sharadar.com/).
+
+ 
 
 ## Grading and Evaluation 
 
-* [Here](https://review.udacity.com/#!/reviews/2321778)
+* You can find the grading of my project [here](https://review.udacity.com/#!/reviews/2333842)
