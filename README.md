@@ -18,8 +18,6 @@ Learnt the basics of quantitative analysis, including data processing, trading s
 
 After learning about these concepts, I also implemented them and the projects can be found [here](https://github.com/prakharrathi25/artificial-intelligence-for-trading/tree/master/part1_quantitative_trading/projects). 
 
-
-4. 
 ### Part2: [AI Algortihms in Trading](https://github.com/prakharrathi25/artificial-intelligence-for-trading/tree/master/part2_ai_algorithms_in_trading)
 
 Learnt how to analyze alternative data and use machine learning to generate trading signals. I also ran backtests to evaluate and combine top performing signals.
