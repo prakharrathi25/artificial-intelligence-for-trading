@@ -32,3 +32,12 @@ Learnt how to analyze alternative data and use machine learning to generate trad
 
 
 After learning about these concepts, I also implemented them and the projects can be found [here](https://github.com/prakharrathi25/artificial-intelligence-for-trading/tree/master/part2_ai_algorithms_in_trading/projects). 
+
+
+## Contact 
+For any queries and suggestions, please reach out to me on prakharrathi25@gmail.com
+
+## How to contribute
+
+1. You can open an issue and let me know what you're working. We can discuss it and approve it. 
+2. You can also fork this repository and submit a pull request. Do add details of what your PR does to get it approved faster.  
